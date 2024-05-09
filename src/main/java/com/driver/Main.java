@@ -7,7 +7,7 @@ public class Main {
     int ans = p.product(10,20);
     int ans2 = p.product(10,40, 50 );
     double ans3 = p.product(1.0, 3.0);
-
+    System.out.println(ans+" "ans2+" "+ans3);
 
 //    Task 1: Create a class Product inside Main class
     public static class Product{
